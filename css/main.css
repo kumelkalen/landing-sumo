@@ -57,3 +57,9 @@ p{
 	color: #666;
 	margin-top: 1em;
 }
+
+/* Third Section */
+.third-section{
+	background-color: #F2F2F2;
+	height: 100vh;
+}
